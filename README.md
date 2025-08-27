@@ -30,8 +30,7 @@ Bot’u şu komutla çalıştırın:
 node index.js
 ```
 Örnek komutlar:
-- `!ticket aç mail` – yeni bir ticket oluşturur  
-- `!ticket kapat` – mevcut ticket’ı kapatır
+- `!ticket` – yeni bir ticket mesajı oluşturur  
 
 ## Katkıda Bulunma
 Katkı fikirlerinizi memnuniyetle karşılıyoruz! Lütfen bir issue açın veya pull request gönderin.
